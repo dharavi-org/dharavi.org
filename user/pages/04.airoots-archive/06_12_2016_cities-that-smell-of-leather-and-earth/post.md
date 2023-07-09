@@ -7,6 +7,12 @@ publish_date: '09-07-2023 09:27'
 taxonomy:
     category:
         - blog
+author: 'Airoots Archive'
+hero:
+    image: Blog_Placeholder.jpg
+show_breadcrumbs: true
+show_sidebar: true
+show_pagination: true
 ---
 
 ===
